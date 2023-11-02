@@ -1,0 +1,3 @@
+hello 
+rightnow i am using my local terminal to wirte sentences
+now i will try to push it on my github
